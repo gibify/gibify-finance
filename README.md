@@ -7,7 +7,7 @@ For more information, see the [course](https://nextjs.org/learn/dashboard-app) o
 You can see the demo web app by clicking on [Gibify Finance](https://finance.gibify.dev/)
 Use the following login name and password to get access to the demo app:
 * Email: user@nextmail.com
-* 123456
+* Password: 123456
 
 ### What will you learn?
 
