@@ -4,6 +4,11 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course](https://nextjs.org/learn/dashboard-app) on the Next.js Website.
 
+You can see the demo web app by clicking on [Gibify Finance](https://finance.gibify.dev/)
+Use the following login name and password to get access to the demo app:
+* Email: user@nextmail.com
+* 123456
+
 ### What will you learn?
 
 
